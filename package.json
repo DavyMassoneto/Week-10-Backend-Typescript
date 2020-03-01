@@ -1,0 +1,10 @@
+{
+  "name": "week-10-backend-typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:DavyMassoneto/Week-10-Backend-Typescript.git",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
